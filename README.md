@@ -43,23 +43,25 @@ The core insight behind the architecture: complaints aren't just text, they're s
 
 ## Demo
 
-![Search UI](
+Search UI
 <img width="1467" height="793" alt="Screenshot 2026-06-03 at 6 59 53 PM" src="https://github.com/user-attachments/assets/4e378cee-b0ba-400e-8fdd-2760f47ef78a" />
 <img width="1470" height="788" alt="Screenshot 2026-06-03 at 7 00 18 PM" src="https://github.com/user-attachments/assets/8fcabae5-c445-49d2-9a83-53595c13e8d9" />
-)
 
-![Results](<img width="1461" height="783" alt="Screenshot 2026-06-03 at 7 00 49 PM" src="https://github.com/user-attachments/assets/58cec6b6-fd8b-4cea-955b-50a36cf90ee3" />
+
+Results 
+<img width="1461" height="783" alt="Screenshot 2026-06-03 at 7 00 49 PM" src="https://github.com/user-attachments/assets/58cec6b6-fd8b-4cea-955b-50a36cf90ee3" />
 <img width="1460" height="780" alt="Screenshot 2026-06-03 at 7 02 07 PM" src="https://github.com/user-attachments/assets/0e07e29b-0312-4fac-a501-b04c06903200" />
 <img width="1457" height="775" alt="Screenshot 2026-06-03 at 7 02 30 PM" src="https://github.com/user-attachments/assets/aef66031-efeb-4aee-bddc-d1d40b728f4c" />
-)
 
-![API Docs](<img width="1446" height="790" alt="Screenshot 2026-06-03 at 7 03 31 PM" src="https://github.com/user-attachments/assets/d4782ae4-b31f-4f99-9911-a63dcd36011c" />
+
+API Docs
+<img width="1446" height="790" alt="Screenshot 2026-06-03 at 7 03 31 PM" src="https://github.com/user-attachments/assets/d4782ae4-b31f-4f99-9911-a63dcd36011c" />
 <img width="1449" height="750" alt="Screenshot 2026-06-03 at 7 03 56 PM" src="https://github.com/user-attachments/assets/383abc1c-3d90-4075-bc38-909979c9050d" />
 
-)
 
-![Terminal — cache hit on repeat search](<img width="733" height="220" alt="Screenshot 2026-06-03 at 7 05 34 PM" src="https://github.com/user-attachments/assets/e361627e-9624-47fc-a476-27ab35976d10" />
-)
+Terminal — cache hit on repeat search
+<img width="733" height="220" alt="Screenshot 2026-06-03 at 7 05 34 PM" src="https://github.com/user-attachments/assets/e361627e-9624-47fc-a476-27ab35976d10" />
+
 
 ---
 
